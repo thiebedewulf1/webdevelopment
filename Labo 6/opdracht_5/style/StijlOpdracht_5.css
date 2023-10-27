@@ -1,0 +1,12 @@
+img {
+    width: 5%;
+    height: auto;
+}
+a {
+    font-size: 50px;
+    padding-left: 50px;
+    background-image: url('../image/a7x.jpg');
+    background-size: 50px;
+    background-position: left;
+    background-repeat: no-repeat;
+}
