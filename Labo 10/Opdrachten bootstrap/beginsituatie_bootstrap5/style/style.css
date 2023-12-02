@@ -1,0 +1,20 @@
+@media (max-width: 575px) {
+    .col-xs-12 {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .col-sm-6 {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .col-md-3 {
+        font-size: 18px;
+    }
+}
+
+

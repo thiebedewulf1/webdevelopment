@@ -1,0 +1,51 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+}
+
+.header li {
+    float: left;
+}
+
+.header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.header li a:hover {
+    background-color: #111;
+}
+
+h2 {
+    color: #333;
+}
+
+.foto {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+.interesse {
+    margin-bottom: 20px;
+}
+
+.interesse strong {
+    color: #333;
+}
