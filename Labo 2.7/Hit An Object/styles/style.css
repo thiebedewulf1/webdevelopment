@@ -1,0 +1,16 @@
+html, body {
+    margin:0px;
+}
+
+#playField{
+    height: 600px;
+    width: 600px;
+}
+
+#img0{
+    position: absolute;
+}
+
+#target {
+    position: absolute;
+}
